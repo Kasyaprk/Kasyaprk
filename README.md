@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kasyaprk
+- 👋 Hi, I’m @Kasyap Rayalacheruvu
 - 👀 I’m interested in Data
-- 🌱 I’m currently pursuing MS in Data Science
+- 🌱 I’m currently pursuing Master's in Data Science
 
 <!---
 Kasyaprk/Kasyaprk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
