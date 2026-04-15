@@ -17,6 +17,7 @@
 ## 👋 About Me
 
 AI Engineer with **4+ years** of end-to-end experience designing, building, and deploying production AI systems across healthcare and enterprise. I specialise in the intersection of **Large Language Models, Graph RAG pipelines, and agentic workflows** — translating complex AI research into systems that actually ship.
+
 ---
 
 ## 🛠️ Tech Stack
