@@ -7,7 +7,7 @@
 *Building production-grade LLM, RAG, and Agentic AI systems that deliver measurable business impact*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kasyaprk.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://kasyaprk.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasyap-rayalacheruvu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasyaprk)
 [![Email](https://img.shields.io/badge/Email-kasyap2208@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasyap2208@gmail.com)
 
 </div>
