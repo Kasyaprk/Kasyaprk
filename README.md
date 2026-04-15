@@ -76,7 +76,6 @@ Currently at **Sikka.ai**, where I architect no-code AI platforms and production
 
 - 🔬 Building **Research Pod** — a multi-agent Graph RAG system for academic paper discovery
 - 🧠 Exploring **LLM evaluation frameworks** (RAGAS, TruLens) for production observability
-- 📝 Open to **senior AI Engineer / ML Engineer** roles in the Bay Area
 
 ---
 
