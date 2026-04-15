@@ -55,8 +55,6 @@ Currently at **Sikka.ai**, where I architect no-code AI platforms and production
 |---------|-------------|-------|
 | [**Research Pod**](https://kasyaprk.github.io/portfolio/projects.html) | Multi-agent Graph RAG system for AI/ML arXiv papers with agentic orchestration | LangGraph · Neo4j · Qdrant · NVIDIA NIM |
 | [**Sales Intelligence Agent**](https://github.com/Kasyaprk) | NL-to-SQL AI agent using Cohere Command R+ for natural language data queries | Cohere · FastAPI · Python |
-| [**LLaMA Text-to-SQL Fine-Tune**](https://kasyaprk.github.io/portfolio/projects.html) | Fine-tuned LLaMA using PEFT/QLoRA on text-to-SQL datasets for healthcare analytics | PyTorch · HuggingFace · QLoRA |
-| [**Healthcare RAG Chatbot**](https://kasyaprk.github.io/portfolio/projects.html) | End-to-end RAG pipeline serving 10,000+ users with near-instant query resolution | LangChain · FastAPI · AWS |
 
 ---
 
