@@ -2,7 +2,7 @@
 
 # Kasyap Rayalacheruvu
 
-**AI Engineer · San Jose, CA**
+**Data Scientist & AI Engineer · San Jose, CA**
 
 *Building production-grade LLM, RAG, and Agentic AI systems that deliver measurable business impact*
 
