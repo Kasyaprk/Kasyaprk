@@ -2,7 +2,7 @@
 
 # Kasyap Rayalacheruvu
 
-**Data Scientist & AI Engineer · San Jose, CA**
+**AI Engineer & Data Scientist · San Jose, CA**
 
 *Building production-grade LLM, RAG, and Agentic AI systems that deliver measurable business impact*
 
@@ -14,13 +14,15 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 AI Engineer with **4+ years** of end-to-end experience designing, building, and deploying production AI systems across healthcare and enterprise. I specialise in the intersection of **Large Language Models, Graph RAG pipelines, and agentic workflows** — translating complex AI research into systems that actually ship.
 
+📍 San Jose, CA · 🔗 [Portfolio](https://kasyaprk.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/kasyaprk)
+
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **LLM & AI**
 
@@ -47,16 +49,18 @@ AI Engineer with **4+ years** of end-to-end experience designing, building, and 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Research Pod**](https://kasyaprk.github.io/portfolio/projects.html) | Multi-agent Graph RAG system for AI/ML arXiv papers with agentic orchestration | LangGraph · Neo4j · Qdrant · NVIDIA NIM |
-| [**Sales Intelligence Agent**](https://github.com/Kasyaprk) | NL-to-SQL AI agent using Cohere Command R+ for natural language data queries | Cohere · FastAPI · Python |
+| Project | Status | Description | Stack |
+|---------|--------|-------------|-------|
+| [**StockWise**](https://github.com/Kasyaprk/StockWise) | Public | Multi-agent stock research: LangGraph agents interpret pre-computed quant metrics (never do the math themselves), with LlamaIndex 10-K Q&A over Qdrant | LangGraph · LlamaIndex · FastAPI · Qdrant · Claude |
+| [**Research Pod**](https://kasyaprk.github.io/portfolio/projects.html) | In progress | Multi-agent Graph RAG for AI/ML arXiv papers — Neo4j relationships + Qdrant dense retrieval with agentic orchestration | LangGraph · Neo4j · Qdrant · NVIDIA NIM |
+
+→ Full write-ups: [Portfolio · Projects](https://kasyaprk.github.io/portfolio/projects.html)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -68,10 +72,11 @@ AI Engineer with **4+ years** of end-to-end experience designing, building, and 
 
 ---
 
-## 📍 What I'm Working On
+## What I'm Working On
 
-- 🔬 Building **Research Pod** — a multi-agent Graph RAG system for academic paper discovery
-- 🧠 Exploring **LLM evaluation frameworks** (RAGAS, TruLens) for production observability
+- Building **StockWise** — multi-agent stock research with grounded quant + LangGraph orchestration
+- Developing **Research Pod** — Graph RAG for academic paper discovery (evals & observability next)
+- Exploring **LLM evaluation frameworks** (RAGAS, TruLens) for production observability
 
 ---
 
