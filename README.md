@@ -77,6 +77,7 @@ AI Engineer with **4+ years** of end-to-end experience designing, building, and 
 - Building **StockWise** — multi-agent stock research with grounded quant + LangGraph orchestration
 - Developing **Research Pod** — Graph RAG for academic paper discovery (evals & observability next)
 - Exploring **LLM evaluation frameworks** (RAGAS, TruLens) for production observability
+- Following a [problems-first AI engineering growth plan](docs/ai-engineer-growth-plan.md) — production RAG/agent failure modes, then contributions to Graphiti, Langfuse, Haystack, and related OSS
 
 ---
 
